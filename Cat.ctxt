@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cat
+comment1.params=
+comment1.target=void\ eat()
+comment2.params=
+comment2.target=java.lang.String\ getLitterPreference()
+comment3.params=litterPreference
+comment3.target=void\ setLitterPreference(java.lang.String)
+numComments=4

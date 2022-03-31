@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=
+comment1.target=void\ eat()
+comment2.params=
+comment2.target=int\ getBreed()
+comment3.params=breed
+comment3.target=void\ setBreed(int)
+numComments=4
